@@ -9,5 +9,5 @@ what your latitude longitude is how accurate the GPS is at the current moment wh
 is and what the address is for the place that you are in.
 
 
-![gtia](https://user-images.githubusercontent.com/65847879/107312471-87cec800-6ab6-11eb-89f2-d75070d3162c.png)
+![Screen](https://user-images.githubusercontent.com/65847879/123062389-1884bf80-d42a-11eb-8b28-9441e0c49895.png)
 
