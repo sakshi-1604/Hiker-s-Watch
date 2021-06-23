@@ -71,9 +71,9 @@ public class MainActivity extends AppCompatActivity {
         TextView addressTextView = findViewById(R.id.addressTextView);
 
         latTextView.setText("Latitude: "+Double.toString(location.getLatitude()));
-        lonTextView.setText("Latitude: "+Double.toString(location.getLongitude()));
-        accTextView.setText("Latitude: "+Double.toString(location.getAccuracy()));
-        altTextView.setText("Latitude: "+Double.toString(location.getAltitude()));
+        lonTextView.setText("Longitude: "+Double.toString(location.getLongitude()));
+        accTextView.setText("Accuracy: "+Double.toString(location.getAccuracy()));
+        altTextView.setText("Altitude: "+Double.toString(location.getAltitude()));
 
         String address = "could not find address!";
         Geocoder geocoder = new Geocoder(this, Locale.getDefault());
